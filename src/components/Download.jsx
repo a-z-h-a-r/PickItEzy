@@ -39,7 +39,7 @@ function Download({ role }) {
           <div className="phone-mockup">
             <div className="phone-screen">
               <div className="phone-header">
-                <span className="phone-logo">QuickMart</span>
+                <span className="phone-logo">PickItEzy</span>
               </div>
               <div className="phone-content">
                 <div className="phone-placeholder-text">Coming Soon</div>

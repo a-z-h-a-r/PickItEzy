@@ -16,14 +16,11 @@ function Contact() {
             <div className="contact-icon">&#128231;</div>
             <h3 className="contact-card-title">Email Us</h3>
             <div className="contact-emails">
-              <a className="contact-email" href="mailto:singhshubham0493@gmail.com">
-                singhshubham0493@gmail.com
+              <a className="contact-email" href="mailto:mgupta5562@gmail.com">
+                Manav Gupta - mgupta5562@gmail.com
               </a>
-              <a className="contact-email" href="mailto:avaiszeehan63@gmail.com">
-                avaiszeehan63@gmail.com
-              </a>
-              <a className="contact-email" href="mailto:azharbatt2006@gmail.com">
-                azharbatt2006@gmail.com
+              <a className="contact-email" href="mailto:priyanshkol123@gmail.com">
+                Priyansh - priyanshkol123@gmail.com
               </a>
             </div>
           </div>
@@ -32,16 +29,12 @@ function Contact() {
             <h3 className="contact-card-title">Call Us</h3>
             <div className="contact-contacts">
               <div className="contact-item">
-                <span className="contact-name">Shubham Singh Katal</span>
-                <a className="contact-phone" href="tel:+916006241140">+91 60062 41140</a>
+                <span className="contact-name">Manav Gupta</span>
+                <a className="contact-phone" href="tel:+919858481232">+91 98584 81232</a>
               </div>
               <div className="contact-item">
-                <span className="contact-name">Zeeshan Ahmed</span>
-                <a className="contact-phone" href="tel:+917889323575">+91 78893 23575</a>
-              </div>
-              <div className="contact-item">
-                <span className="contact-name">Azhar Mushtaq Batt</span>
-                <a className="contact-phone" href="tel:+919541085644">+91 95410 85644</a>
+                <span className="contact-name">Priyansh</span>
+                <a className="contact-phone" href="tel:+917780918400">+91 77809 18400</a>
               </div>
             </div>
           </div>

@@ -1,4 +1,4 @@
-import logo from '../assets/logo1.png';
+import logo from '../assets/logo3.png';
 
 function Footer() {
   return (
@@ -7,7 +7,7 @@ function Footer() {
         <div className="footer-top">
           <div className="footer-brand">
             <div className="logo">
-              <img src={logo} alt="QuickMart" className="logo-icon" />
+              <img src={logo} alt="PickItEzy" className="logo-icon" />
             </div>
             <p className="footer-brand-text">
               Groceries delivered in 10 minutes. Fresh, fast, and affordable.
@@ -41,7 +41,7 @@ function Footer() {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; 2026 QuickMart. All rights reserved.</p>
+          <p>&copy; 2026 PickItEzy. All rights reserved.</p>
         </div>
       </div>
     </footer>

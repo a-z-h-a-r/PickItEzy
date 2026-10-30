@@ -1,11 +1,11 @@
-import logo from '../assets/logo1.png';
+import logo from '../assets/logo3.png';
 
 function Navbar({ role, theme, onToggleTheme }) {
   return (
     <nav className="navbar">
       <div className="navbar-container">
         <div className="logo">
-          <img src={logo} alt="QuickMart" className="logo-icon" />
+          <img src={logo} alt="PickItEzy" className="logo-icon" />
         </div>
         <ul className="nav-links">
           <li><a href="#home">Home</a></li>

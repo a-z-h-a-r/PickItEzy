@@ -19,7 +19,7 @@ export const siteContent = {
     },
     comingSoon: {
       subtitle:
-        "We are working hard to bring QuickMart to your city. Be the first to know when we launch and get exclusive early-bird offers.",
+        "We are working hard to bring PickItEzy to your city. Be the first to know when we launch and get exclusive early-bird offers.",
       features: [
         { icon: "&#128225;", title: "Launch Alerts", text: "Be the first to know the moment we go live in your area." },
         { icon: "&#128640;", title: "Express Delivery", text: "Groceries at your door in minutes, right from day one." },
@@ -64,7 +64,7 @@ export const siteContent = {
     howItWorks: {
       tag: "Simple Process",
       title: "How",
-      titleHighlight: "QuickMart",
+      titleHighlight: "PickItEzy",
       subtitle: "Getting your groceries has never been easier. Just 4 simple steps.",
       steps: [
         { step: "01", title: "Browse Products", description: "Open the app and browse through thousands of products across multiple categories." },
@@ -75,14 +75,14 @@ export const siteContent = {
     },
     download: {
       title: "Download the",
-      titleHighlight: "QuickMart",
+      titleHighlight: "PickItEzy",
       subtitle: "Get the app now and enjoy lightning-fast grocery delivery. Available on Android and iOS.",
     },
     whatsapp: {
       title: "Join Our",
       titleHighlight: "WhatsApp Group",
-      subtitle: "Be the first to know when the QuickMart app goes live, plus get exclusive offers, updates, and announcements delivered straight to your phone.",
-      link: "https://chat.whatsapp.com/I2fdl0blRD86EpqCiqT6d1",
+      subtitle: "Be the first to know when the PickItEzy app goes live, plus get exclusive offers, updates, and announcements delivered straight to your phone.",
+      link: "https://chat.whatsapp.com/I2fdl0blRD86EpqCiqT6d1?s=cl&p=a&mlu=4&ilr=4&iam=2",
     },
     navbar: "Coming Soon",
     shopBy: "Shop by",
@@ -94,7 +94,7 @@ export const siteContent = {
       title: "Earn on Your",
       titleHighlight: "Own Schedule",
       subtitle:
-        "Deliver groceries and earn a steady income with flexible hours. Ride with QuickMart and enjoy weekly payouts and fuel incentives.",
+        "Deliver groceries and earn a steady income with flexible hours. Ride with PickItEzy and enjoy weekly payouts and fuel incentives.",
       stats: [
         { number: "&#8377;50K+", label: "Monthly Earnings" },
         { number: "4.9&#9733;", label: "Partner Rating" },
@@ -102,7 +102,7 @@ export const siteContent = {
     },
     comingSoon: {
       subtitle:
-        "Delivery partner onboarding is opening soon in your city. Register your interest and be first in line to start earning with QuickMart.",
+        "Delivery partner onboarding is opening soon in your city. Register your interest and be first in line to start earning with PickItEzy.",
       features: [
         { icon: "&#128176;", title: "Earn With Every Ride", text: "Make money on every delivery you complete, with no hidden deductions." },
         { icon: "&#9201;", title: "Flexible Hours", text: "Choose your own shifts. Work when it suits you best." },
@@ -111,7 +111,7 @@ export const siteContent = {
     features: {
       tag: "Why Partner With Us",
       title: "Earn More With",
-      titleHighlight: "QuickMart",
+      titleHighlight: "PickItEzy",
       subtitle: "We help our delivery partners maximise their earnings with great perks and support.",
       items: [
         { icon: "&#128181;", title: "Higher Earnings", description: "Transparent payouts with bonuses for peak hours and order streaks." },
@@ -123,7 +123,7 @@ export const siteContent = {
     categories: {
       tag: "Delivery Zones",
       title: "Delivery",
-      titleHighlight: "With QuickMart",
+      titleHighlight: "With PickItEzy",
       subtitle: "Cover the areas you know best and earn more on every order.",
       items: [
         { icon: "&#128205;", name: "Your City" },
@@ -140,7 +140,7 @@ export const siteContent = {
       tag: "Get Started",
       title: "How to Become a",
       titleHighlight: "Partner",
-      subtitle: "Start earning with QuickMart in just 4 easy steps.",
+      subtitle: "Start earning with PickItEzy in just 4 easy steps.",
       steps: [
         { step: "01", title: "Sign Up", description: "Download the partner app and register with your basic details." },
         { step: "02", title: "Get Verified", description: "Complete a quick KYC and attend free onboarding training." },
@@ -157,7 +157,7 @@ export const siteContent = {
       title: "Join Our",
       titleHighlight: "Partner Group",
       subtitle: "Be the first to know when partner onboarding opens, plus get earnings tips, ride updates, and announcements on WhatsApp.",
-      link: "https://chat.whatsapp.com/ENVjeXTsN96FwlQpKdwRxs",
+      link: "https://chat.whatsapp.com/ENVjeXTsN96FwlQpKdwRxs?s=cl&p=a&mlu=4&ilr=4&iam=2",
     },
     navbar: "Partner With Us",
     shopBy: "Partner Zones",
@@ -165,11 +165,11 @@ export const siteContent = {
 
   vendors: {
     hero: {
-      badge: "Sell on QuickMart",
+      badge: "Sell on PickItEzy",
       title: "Grow Your Business",
-      titleHighlight: "With QuickMart",
+      titleHighlight: "With PickItEzy",
       subtitle:
-        "List your products and reach thousands of customers every day. QuickMart handles delivery so you can focus on your store.",
+        "List your products and reach thousands of customers every day. PickItEzy handles delivery so you can focus on your store.",
       stats: [
         { number: "50+", label: "Partner Stores" },
         { number: "100%", label: "On-Time Payouts" },
@@ -177,7 +177,7 @@ export const siteContent = {
     },
     comingSoon: {
       subtitle:
-        "Vendor onboarding is opening soon in your city. Register your store today and be among the first sellers on QuickMart.",
+        "Vendor onboarding is opening soon in your city. Register your store today and be among the first sellers on PickItEzy.",
       features: [
         { icon: "&#128200;", title: "Less Commission", text: "Keep more of your earnings with our low, transparent fees." },
         { icon: "&#128230;", title: "Managed Deliveries", text: "We handle all the heavy lifting — delivery, tracking, and returns." },
@@ -187,7 +187,7 @@ export const siteContent = {
     features: {
       tag: "Why Sell With Us",
       title: "Sell Smarter With",
-      titleHighlight: "QuickMart",
+      titleHighlight: "PickItEzy",
       subtitle: "We give local stores the tools to reach more customers and sell more.",
       items: [
         { icon: "&#128202;", title: "Reach More Customers", description: "List your store to thousands of shoppers in your area every single day." },
@@ -221,7 +221,7 @@ export const siteContent = {
     howItWorks: {
       tag: "Get Started",
       title: "How to Sell on",
-      titleHighlight: "QuickMart",
+      titleHighlight: "PickItEzy",
       subtitle: "Start selling online in just 4 simple steps.",
       steps: [
         { step: "01", title: "Register Store", description: "Sign up and add basic details about your store and inventory." },
@@ -239,7 +239,7 @@ export const siteContent = {
       title: "Join Our",
       titleHighlight: "Vendor Group",
       subtitle: "Be the first to know when vendor onboarding opens, plus get selling tips, store updates, and announcements on WhatsApp.",
-      link: "https://chat.whatsapp.com/IiTMFBnL9BCHZg3wRwQ18f",
+      link: "https://chat.whatsapp.com/IiTMFBnL9BCHZg3wRwQ18f?s=cl&p=a&mlu=4&ilr=4&iam=2",
     },
     navbar: "Sell With Us",
     shopBy: "Shop by",
