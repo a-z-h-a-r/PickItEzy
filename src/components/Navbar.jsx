@@ -20,11 +20,7 @@ function Navbar({ role, theme, onToggleTheme }) {
             onClick={onToggleTheme}
             aria-label="Toggle theme"
           >
-            <span className="theme-track-icons">
-              <span className="theme-track-icon theme-sun">☀️</span>
-              <span className="theme-track-icon theme-moon">🌙</span>
-            </span>
-            <span className="theme-knob">{theme === 'light' ? '☀️' : '🌙'}</span>
+            <span className="theme-knob"></span>
           </button>
         </div>
       </div>

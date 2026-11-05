@@ -42,7 +42,7 @@ function Download({ role }) {
                 <span className="phone-logo">PickItEzy</span>
               </div>
               <div className="phone-content">
-                <div className="phone-placeholder-text">Coming Soon</div>
+                <div className="phone-placeholder-text">App Preview</div>
               </div>
             </div>
           </div>
@@ -50,7 +50,7 @@ function Download({ role }) {
       </div>
       <div className={`store-toast ${showToast ? 'store-toast-show' : ''}`}>
         <span className="store-toast-icon">&#128227;</span>
-        <span>Coming Soon</span>
+        <span>App Preview</span>
       </div>
     </section>
   );

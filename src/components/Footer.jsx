@@ -19,23 +19,18 @@ function Footer() {
               <ul>
                 <li><a href="#home">About Us</a></li>
                 <li><a href="#features">Careers</a></li>
-                <li><a href="#contact">Blog</a></li>
               </ul>
             </div>
             <div className="footer-column">
               <h4 className="footer-column-title">Support</h4>
               <ul>
                 <li><a href="#contact">Help Center</a></li>
-                <li><a href="#contact">Safety</a></li>
-                <li><a href="#contact">Terms</a></li>
               </ul>
             </div>
             <div className="footer-column">
               <h4 className="footer-column-title">Follow Us</h4>
               <ul>
-                <li><a href="#home">Instagram</a></li>
-                <li><a href="#home">Twitter</a></li>
-                <li><a href="#home">Facebook</a></li>
+                <li><a href="https://instagram.com/pickitezy" target="_blank" rel="noopener noreferrer">Instagram</a></li>
               </ul>
             </div>
           </div>

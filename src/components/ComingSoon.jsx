@@ -6,9 +6,8 @@ function ComingSoon({ role }) {
   return (
     <section className="coming-soon" id="coming-soon">
       <div className="coming-soon-container">
-        <div className="coming-soon-badge">Coming Soon</div>
         <h2 className="coming-soon-title">
-          We Are Coming To <span className="highlight">Your City</span> Soon!
+          Expanding To <span className="highlight">Your City</span>
         </h2>
         <p className="coming-soon-subtitle">{content.subtitle}</p>
 

@@ -7,15 +7,12 @@ export const roles = [
 export const siteContent = {
   users: {
     hero: {
-      badge: "Launching Soon in Your City",
+      badge: "Join User App",
       title: "Groceries Delivered",
       titleHighlight: "To Your Doorstep",
       subtitle:
         "Get your daily essentials, fresh fruits, vegetables, and more delivered right to your doorstep. Fast, fresh, and affordable.",
-      stats: [
-        { number: "10,000+", label: "Products" },
-        { number: "4.9&#9733;", label: "App Rating" },
-      ],
+      stats: [],
     },
     comingSoon: {
       subtitle:
@@ -84,21 +81,18 @@ export const siteContent = {
       subtitle: "Be the first to know when the PickItEzy app goes live, plus get exclusive offers, updates, and announcements delivered straight to your phone.",
       link: "https://chat.whatsapp.com/I2fdl0blRD86EpqCiqT6d1?s=cl&p=a&mlu=4&ilr=4&iam=2",
     },
-    navbar: "Coming Soon",
+    navbar: "",
     shopBy: "Shop by",
   },
 
   partners: {
     hero: {
-      badge: "Join as a Delivery Partner",
+      badge: "Join Riders App",
       title: "Earn on Your",
       titleHighlight: "Own Schedule",
       subtitle:
         "Deliver groceries and earn a steady income with flexible hours. Ride with PickItEzy and enjoy weekly payouts and fuel incentives.",
-      stats: [
-        { number: "&#8377;50K+", label: "Monthly Earnings" },
-        { number: "4.9&#9733;", label: "Partner Rating" },
-      ],
+      stats: [],
     },
     comingSoon: {
       subtitle:
@@ -165,15 +159,12 @@ export const siteContent = {
 
   vendors: {
     hero: {
-      badge: "Sell on PickItEzy",
+      badge: "Join Verndor App",
       title: "Grow Your Business",
       titleHighlight: "With PickItEzy",
       subtitle:
         "List your products and reach thousands of customers every day. PickItEzy handles delivery so you can focus on your store.",
-      stats: [
-        { number: "50+", label: "Partner Stores" },
-        { number: "100%", label: "On-Time Payouts" },
-      ],
+      stats: [],
     },
     comingSoon: {
       subtitle:
